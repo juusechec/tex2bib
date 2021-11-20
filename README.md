@@ -16,4 +16,5 @@ php index.php
 # base project
 - https://ctan.org/pkg/text2bib?lang=en
 - https://text2bib.economics.utoronto.ca/
-- https://texblog.org/2011/12/12/bib2tex-converting-bibtex-to-bibitems/
+- https://texblog.org/2011/12/12/bib2tex-converting-bibtex-to-bibitems
+- https://stackoverflow.com/questions/60536106/create-a-bib-file-from-bibitem-thebibliography/70043146#70043146
