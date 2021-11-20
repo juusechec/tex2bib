@@ -9,7 +9,7 @@ $verbose = 1;
 $debug = 0;
 $itemSeparator = 'cr';
 $percentComment = 1;
-$filename = 'hola.txt';
+$filename = 'example-cites.tex';
 
 $convert = new Convert($labelStyle, $overrideLabels, $lineEndings, $verbose, $debug, $itemSeparator, $percentComment);
 $items = $convert->convertToBibtex($filename);
