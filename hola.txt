@@ -1,0 +1,4 @@
+ @misc{how nba analytics is changing basketball_2020, title={How NBA analytics is changing basketball: Merrimack college}, url={https://onlinedsa.merrimack.edu/nba-analytics-changing-basketball/}, journal={How NBA Analytics is Changing Basketball}, publisher={Merrimack College}, year={2020}, month={Jun}} 
+ 
+ @misc{merrimack college data science degrees_2020, title={How NBA analytics is changing basketball: Merrimack college}, url={https://onlinedsa.merrimack.edu/nba-analytics-changing-basketball/}, journal={Merrimack College Data Science Degrees}, year={2020}, month={Jun}} 
+ 
